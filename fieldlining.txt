@@ -1,0 +1,321 @@
+FIELD LINING
+
+These are instructions for lining a field for drum corps that goes from the 20
+yard line to the 20 yard line and to just behind the back hash.
+This is NOT a full field.
+Drawings are not to scale.
+
+MATERIALS
+
+300ft measuring tape
+200ft rope on a spool
+12-18 cans of field paint
+
+
+CHARACTERS
+
+c1 - Field lining captain; In the middle of the tape
+s1 - Skeleton crew member; Holds the zero mark of the tape
+s2 - Skeleton crew member; Holds the spool of the tape
+r1 - Rope crew member; Holds the end of the rope
+r2 - Rope crew member; Hold the spool of the rope
+r3,r4,r5,... - Rope crew members; Spray the rope
+
+
+FRONT SIDELINE
+
+c1: stand in the middle of the front sideline and step on the tape.
+s1: pull your half taught.
+s2: line up your half so that it is straight and pull it taught.
+all: put the tape down.
+all: spray alongside the tape.  DO NOT SPRAY THE TAPE.
+all: spray slash marks every 15 ft along the tape for the yard lines.
+
+|                                      |                                      |
+-------------------------------------------------------------------------------
+                                       50
+s1(0ft)                             c1(90ft)                          s2(180ft)
+
+
+50 YARD LINE (1)
+
+s1: bring 0ft to the 50yd line.  step on it.
+s2: grab 180ft and bring it to the 30yd line.  step on it.
+c1: grab 80ft and bring it to the center of the field.
+c1: pull until the 2 triangle legs are straight and taught
+c1: mark the center x
+
+                                    c1(80ft)
+                                       |\
+                                       | \
+                                       |  \
+                                       |   \
+                                       |    \
+                                       |     \
+                                       |      \
+                                       |       \
+                                       |        \
+                                       |         \
+|                                      |          \|                          |
+-------------------------------------------------------------------------------
+                                       50          30 
+                                     s1(0ft)     s2(180ft)
+
+
+
+
+
+
+
+
+50 YARD LINE (2)
+
+s2: grab 120ft and bring it to the back of the field
+s2: line it up with the center x
+all: spray alongside the tape.  DO NOT SPRAY THE TAPE.
+all: spray tick marks every 7.5ft
+all: spray hash marks at 53ft 4in and 106ft 8in
+
+                                    s2(120ft)
+                                       |
+                                      =|=106ft 8in
+                                       |
+                                       |
+                                       |                                      
+                                       x
+                                       |
+                                       |
+                                       |
+                                      =|=53ft 4in 
+                                       |
+                                       |
+                                       |
+                                       |
+                                       |
+|                                      |                                      |
+-------------------------------------------------------------------------------
+                                       50
+                                     s1(0ft)
+
+BACK SIDELINE (1)
+
+s2: Grab 240ft and put it on the back sideline.  step on it.
+s1: Bring 0ft to the back sideline and give it to s2 to step on also.
+s1: Grab 80ft and pull it back along the 50. step on it.
+c1: Grab 160ft and pull until the 2 triangle legs are straight and taught
+c1: Spray a dot for the 30yd line.
+
+                        c1(160ft)   s2(0ft and 240ft)
+                            ------------
+                            \          |
+                             \         |
+                              \        |
+                               \       |
+                                \      |                                      
+                                 \     x
+                                  \    |
+                                   \   |
+                                    \  |
+                                     \ |
+                                      \|
+                                    s1(80ft)
+                                       |
+                                       |
+                                       |
+|                                      |                                      |
+-------------------------------------------------------------------------------
+                                       50
+                                     s1(0ft)
+
+
+
+
+
+
+
+
+
+
+
+BACK SIDELINE (2)
+
+c1: grab 90ft, put it on the back of the 50 and step on it
+s1: grab 0ft, line it up with the 30yd line dot just sprayed and put it down
+s2: grab 180ft, line it up with the other half of the line and put it down
+note: you don't actually need to spray the back line
+all: spray little T marks every 15 ft to mark the back of the yard lines.
+
+s1(0ft)                             c1(90ft)                          s2(180ft)
+-------------------------------------------------------------------------------
+                           |           |           |
+                                       |
+                                       |
+                                       |
+                                       |                                      
+                                       x
+                                       |
+                                       |
+                                       |
+                                       |
+                                       |
+                                       |
+                                       |
+                                       |
+                                       |
+|                          |           |           |                          |
+-------------------------------------------------------------------------------
+                           30          50          30
+
+YARD LINES
+
+r2: while holding to rope spool, put the rope on the 45 marker and step on it
+r1: pull the rope taught and shake it up and down until it is straight
+r3,4,5: spray on top of the rope to make the yard line
+all: move to each yard line away from the 50 and repeat
+
+                                 r1
+-------------------------------------------------------------------------------
+                           |     |     |           |
+                                 |     |
+                               r3|     |
+                                 |     |
+                                 |     |                                      
+                                 |     x
+                                 |     |
+                               r4|     |
+                                 |     |
+                                 |     |
+                                 |     |
+                                 |     |
+                               r5|     |
+                                 |     |
+                                 |     |
+|                          |     |     |           |                          |
+-------------------------------------------------------------------------------
+                           30    r2    50          30
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+END ZONES
+
+s1: grab 0ft and put it on the end of the front sideline
+s2: grab 120ft and bring to the end of the back sideline
+note: a margin of error of a couple inches in the back is expected
+all: spray alongside the tape.  DO NOT SPRAY THE TAPE.
+all: spray tick marks every 7.5ft
+all: spray hash marks at 53ft 4in and 106ft 8in
+all: repeat for the other end zone
+
+s2(120ft)
+-------------------------------------------------------------------------------
+|                          |           |           |                          |
+|=106ft 8in                            |
+|                                      |
+|                                      |
+|                                      |                                      
+|                                      x
+|                                      |
+|                                      |
+|=53ft 4in                             |
+|                                      |
+|                                      |
+|                                      |
+|                                      |
+|                                      |
+|                                      |
+|                          |           |           |                          |
+-------------------------------------------------------------------------------
+s1(0ft)                    30          50          30
+
+HASHES AND TICKS
+
+r2: bring the spool of rope the first tick in the end zone
+r1: line up the rope with the first tick on the 50 and pull/shake it straight
+r3,4,5: spray ticks where the rope crosses the yard line
+all: move to the next tick and repeat
+all: when you get to the hash spray a slightly wider line to indicate the hash
+
+-------------------------------------------------------------------------------
+|       |      |     |     |     |     |           |                          |
+|=106ft 8in   =|=   =|=   =|=   =|=   =|=          |                          |
+|       |      |     |     |     |     |           |                          |
+|       |      |     |     |     |     |           |                          |
+|       |      |     |     |     |     |           |                          |
+|       |      |     |     |     |     x           |                          |
+|       |      |     |     |     |     |           |                          |
+|       |      |     |     |     |     |           |                          |
+|=53ft 4in    =|=   =|=   =|=   =|=   =|=          |                          |
+|       |      |     |     |     |     |           |                          |
+|       |      |     |     |     |     |           |                          |
+|       |      |     |     |     |     |           |                          |
+|       |      |     |     |     |     |           |                          |
+|       |      |     |     |     |     |           |                          |
+|-r2   -|-    -|-   -|-   -|-   -|-   -|-r1        |                          |
+|       r3     |     r4    |     r5    |           |                          |
+-------------------------------------------------------------------------------
+s1(0ft)                    30   45      50          30
+
+
+
+
+
+
+
+
+
+
+
+
+REFERENCE
+
+Ticks every 4 steps (7.5ft)
+7.5
+15
+22.5
+30
+37.5
+45
+52.5 
+  Hash: 53ft 4in
+60
+67.5
+75
+82.5
+90
+97.5
+105
+  Hash: 106ft 8in
+112.5
+120
+
+-------------------------------------------------------------------------------
+|                                      |                                      |
+|=106ft 8in                            |                                      |
+|                                      |                                      |
+|                                      |                                      |
+|                                      |                                      |
+|                                      x                                      |
+|                                      |\                                     |
+|                                      | \                                    |
+|                                      |  \                              120ft|
+|=53ft 4in                             |   \                                  |
+|                                      |    \                                 |
+|                                  80ft|     \100ft                           |
+|                                      |      \                               |
+|                                      |       \                              |
+|                                      |        \                             |
+|                                      |         \                            |
+|                                      |   60ft   \|                          |
+-------------------------------------------------------------------------------
+                                                              160ft
